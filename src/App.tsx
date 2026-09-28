@@ -24,7 +24,7 @@ function App() {
           Ana
         </div>
         <div
-          style={{ ...styleDiv, color: "blue", backgroundColor: "lightblue" }}
+          style={{ ...styleDiv, color: "#09220e", backgroundColor: "#fae0e0" }}
         >
           Anderson
         </div>
