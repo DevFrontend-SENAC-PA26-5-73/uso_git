@@ -4,7 +4,7 @@ function App() {
   const styleDiv = {
     margin: "10px",
     border: "1px solid black",
-    backgroundColor: "blue",
+    backgroundColor: "red",
     width: "100px",
     height: "100px",
   };
