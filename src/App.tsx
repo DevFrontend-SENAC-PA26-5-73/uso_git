@@ -30,9 +30,9 @@ function App() {
           Anderson
         </div>
         <div
-          style={{ ...styleDiv, color: "blue", backgroundColor: "lightblue" }}
+          style={{ ...styleDiv, color: "red", backgroundColor: "black" }}
         >
-          Ederson
+          Ederson Flamengo
         </div>
         <div
           style={{ ...styleDiv, color: "blue", backgroundColor: "lightblue" }}
