@@ -19,9 +19,9 @@ function App() {
           Adryan
         </div>
         <div
-          style={{ ...styleDiv, color: "blue", backgroundColor: "lightblue" }}
+          style={{ ...styleDiv, color: "black", backgroundColor: "red" }}
         >
-          Ana
+          Anã Clara
         </div>
         <div
           style={{ ...styleDiv, color: "blue", backgroundColor: "lightblue" }}
@@ -39,9 +39,9 @@ function App() {
           Rebeca
         </div>
         <div
-          style={{ ...styleDiv, color: "blue", backgroundColor: "lightblue" }}
+          style={{ ...styleDiv, color: "yellow", backgroundColor: "green" }}
         >
-          Tony
+          Tony O gigante
         </div>
       </div>
     </>
